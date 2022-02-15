@@ -1,0 +1,53 @@
+fd42cbb refs/remotes/origin/develop@{0}: update by push
+54dd0fd refs/remotes/origin/images@{0}: update by push
+fd42cbb refs/remotes/origin/master@{0}: update by push
+80c664a refs/remotes/origin/styles@{0}: update by push
+fd42cbb refs/heads/master@{0}: merge develop: Fast-forward
+fd42cbb HEAD@{0}: merge develop: Fast-forward
+335f437 HEAD@{1}: checkout: moving from develop to master
+fd42cbb refs/heads/develop@{0}: commit: final modification
+fd42cbb HEAD@{2}: commit: final modification
+335f437 HEAD@{3}: checkout: moving from master to develop
+335f437 refs/heads/master@{1}: merge develop: Fast-forward
+335f437 HEAD@{4}: merge develop: Fast-forward
+1cd6dfb HEAD@{5}: checkout: moving from develop to master
+335f437 refs/heads/develop@{1}: commit (merge): conflict resolved
+335f437 HEAD@{6}: commit (merge): conflict resolved
+8624613 HEAD@{7}: checkout: moving from styles to develop
+80c664a HEAD@{8}: checkout: moving from develop to styles
+8624613 refs/heads/develop@{2}: commit: index.html
+8624613 HEAD@{9}: commit: index.html
+0b4181a HEAD@{10}: checkout: moving from images to develop
+54dd0fd HEAD@{11}: checkout: moving from develop to images
+0b4181a refs/heads/develop@{3}: commit (merge): comflict resolution 1
+0b4181a HEAD@{12}: commit (merge): comflict resolution 1
+bfb06ac HEAD@{13}: checkout: moving from images to develop
+54dd0fd HEAD@{14}: checkout: moving from develop to images
+bfb06ac HEAD@{15}: checkout: moving from styles to develop
+80c664a refs/heads/styles@{0}: commit: css works
+80c664a HEAD@{16}: commit: css works
+49bc1dd refs/heads/styles@{1}: commit: added html and css
+49bc1dd HEAD@{17}: commit: added html and css
+a7498cd HEAD@{18}: checkout: moving from develop to styles
+bfb06ac refs/heads/develop@{4}: commit: index.html modified
+bfb06ac HEAD@{19}: commit: index.html modified
+492df87 HEAD@{20}: checkout: moving from styles to develop
+a7498cd HEAD@{21}: checkout: moving from develop to styles
+492df87 refs/heads/develop@{5}: commit: images return
+492df87 HEAD@{22}: commit: images return
+a7498cd HEAD@{23}: checkout: moving from styles to develop
+a7498cd refs/heads/styles@{2}: branch: Created from HEAD
+a7498cd HEAD@{24}: checkout: moving from develop to styles
+a7498cd HEAD@{25}: checkout: moving from images to develop
+54dd0fd refs/heads/images@{0}: commit: Images source
+54dd0fd HEAD@{26}: commit: Images source
+55db6d1 refs/heads/images@{1}: commit: commit images
+55db6d1 HEAD@{27}: commit: commit images
+a7498cd refs/heads/images@{2}: branch: Created from HEAD
+a7498cd HEAD@{28}: checkout: moving from develop to images
+a7498cd refs/heads/develop@{6}: commit: commit index.html on develop branch
+a7498cd HEAD@{29}: commit: commit index.html on develop branch
+1cd6dfb refs/heads/develop@{7}: branch: Created from HEAD
+1cd6dfb HEAD@{30}: checkout: moving from master to develop
+1cd6dfb refs/heads/master@{2}: commit (initial): The initial commit
+1cd6dfb HEAD@{31}: commit (initial): The initial commit
